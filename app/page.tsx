@@ -1,4 +1,4 @@
-import CosmoBlast from '@/components/CosmoBlast';
+import CosmoBlast from '../components/CosmoBlast';
 
 export default function Home() {
   return (
